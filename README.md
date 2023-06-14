@@ -1,4 +1,4 @@
-# Printf: [![dohanyan's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cldiw2g0k01220fl8ferid3xf/project/2950768)](https://github.com/JaeSeoKim/badge42)
+# Printf: [![dohanyan's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clivtyac3001108l7gt8cwt36/project/2964452)](https://github.com/JaeSeoKim/badge42)
 
 A partial reimplementation of the printf in C. Handles only the following conversions.
 
